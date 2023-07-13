@@ -1,0 +1,11 @@
+{
+    "task_key": "<task-name>",
+    "depends_on": [],
+    "spark_python_task": {
+        "python_file": "<path>",
+        "source": "GIT"
+    },
+    "existing_cluster_id": "0419-195557-3uik8eye",
+    "timeout_seconds": 0,
+    "email_notifications": {}
+}
